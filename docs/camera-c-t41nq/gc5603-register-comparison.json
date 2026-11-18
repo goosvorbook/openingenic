@@ -1,0 +1,104 @@
+{
+  "scope": "Read-only original working versus native GC5603 register/MIPI structures",
+  "old_register_records": 137,
+  "native_register_records": 135,
+  "register_final_value_differences": [
+    {
+      "register": "0x99",
+      "old": 21,
+      "native": 4
+    },
+    {
+      "register": "0x9b",
+      "old": 40,
+      "native": 4
+    },
+    {
+      "register": "0x345",
+      "old": 2,
+      "native": 40
+    },
+    {
+      "register": "0x347",
+      "old": 2,
+      "native": 23
+    },
+    {
+      "register": "0x34b",
+      "old": 122,
+      "native": 138
+    },
+    {
+      "register": "0x5be",
+      "old": 1,
+      "native": 0
+    },
+    {
+      "register": "0x61b",
+      "old": 3,
+      "native": null
+    },
+    {
+      "register": "0x6ab",
+      "old": null,
+      "native": 3
+    },
+    {
+      "register": "0x706",
+      "old": 2,
+      "native": 3
+    },
+    {
+      "register": "0x709",
+      "old": 64,
+      "native": null
+    },
+    {
+      "register": "0x716",
+      "old": 2,
+      "native": 3
+    },
+    {
+      "register": "0x719",
+      "old": 64,
+      "native": null
+    },
+    {
+      "register": "0x1412",
+      "old": null,
+      "native": 32
+    },
+    {
+      "register": "0x1467",
+      "old": 21,
+      "native": 8
+    },
+    {
+      "register": "0x1468",
+      "old": 21,
+      "native": 16
+    },
+    {
+      "register": "0x1469",
+      "old": 112,
+      "native": 128
+    }
+  ],
+  "mipi_word_differences": [],
+  "old_window_words": [
+    2880,
+    1620,
+    1638401,
+    20998,
+    8,
+    1816
+  ],
+  "native_window_words": [
+    2880,
+    1620,
+    1638401,
+    20998,
+    8,
+    644
+  ]
+}
